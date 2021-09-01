@@ -4,3 +4,5 @@ var block = document.getElementById("block");
 function jump(){
     character.classList.add("animate")
 }
+
+//Might need to install an extension for animation to work on css
